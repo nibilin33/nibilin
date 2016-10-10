@@ -17,7 +17,10 @@ body a{
 	-moz-transition:0.5s all;
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
-}	
+}
+img:hover{
+    zoom:2;
+}
 body {
   padding-top:0px;
 }
