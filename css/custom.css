@@ -1,0 +1,110 @@
+h4, h5, h6,
+h1, h2, h3 {margin: 0;}
+ul, ol {margin: 0; padding:0;}
+ul,li{
+    list-style: none
+}
+p {margin: 0;}
+html, body{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 100%;
+    background: #ffffff;
+}
+body a{
+    transition:0.5s all;
+    -webkit-transition:0.5s all;
+    -moz-transition:0.5s all;
+    -o-transition:0.5s all;
+    -ms-transition:0.5s all;
+}
+a{
+    outline: thin dotted;
+    outline: 0px auto -webkit-focus-ring-color;
+    outline-offset: 0px;
+    text-decoration:none;
+}
+img:hover{
+    zoom:2;
+}
+body {
+    padding: 20px;
+}
+.info-block{
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    background: rgba(64, 64, 64, 0.65);
+    color:white;
+    padding:10px;
+}
+.info-block p > span{
+    padding-left:10px;
+}
+.info-block a{
+    color: white;
+}
+
+.main-color{
+    color: rgb(191,1,0);
+}
+.main-bg{
+    background:rgb(191,1,0);
+    color:white;
+}
+.job-position{
+    padding: 10px 5px;
+    border-radius: 4px;
+    flex:1;
+}
+.resume{
+    vertical-align: bottom;
+}
+.resume-arrow{
+    transform: scaleX(1.3);
+    margin-left:20px;
+    font-size:20px!important;
+}
+.resume-page{
+    margin-right: 5px;
+}
+@media screen and (max-width: 600px) { /*当屏幕尺寸小于600px时，应用下面的CSS样式*/
+    .resume-page {
+        display: none;
+    }
+}
+.username{
+    width: 200px;
+    line-height: 42px;
+}
+.box{
+    display:flex;
+    justify-content:space-between;
+}
+.list{
+    display: flex;
+}
+.list-block{
+    padding-left: 30px;
+}
+.bold{
+    font-weight: bold;
+}
+.flex-1{
+    flex:1;
+}
+.list .title{
+    color:rgb(140,140,140);
+    font-size:16px;
+    line-height: 30px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+.list .flag{
+    height: 30px;
+    width: 10px;
+    background: rgb(197,2,5);
+    margin-right: 5px;
+}
+.list .dash{
+    border-bottom: 1px dashed rgb(140,140,140);
+}

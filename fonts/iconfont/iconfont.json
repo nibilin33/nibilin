@@ -1,0 +1,51 @@
+{
+  "id": "1588202",
+  "name": "resume",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "resume",
+  "glyphs": [
+    {
+      "icon_id": "551957",
+      "name": "箭头",
+      "font_class": "arrow-down",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "563875",
+      "name": "邮箱 邮件",
+      "font_class": "youxiang",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "1440885",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "2035056",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "9307591",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "9632604",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    }
+  ]
+}
