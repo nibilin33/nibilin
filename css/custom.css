@@ -73,6 +73,7 @@ body {
     }
     .resume-arrow {
         margin-left:0;
+        margin-right: 5px;
     }
 }
 .username{
