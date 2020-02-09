@@ -34,6 +34,13 @@
       "unicode_decimal": 58942
     },
     {
+      "icon_id": "3901171",
+      "name": "求职意向",
+      "font_class": "qiuzhiyixiang",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
       "icon_id": "9307591",
       "name": "github",
       "font_class": "github",
